@@ -1,4 +1,4 @@
-# Active Directory Permission Abuse
+# Active Directory Permission Abuse Matrix
 
 
 | Matrix  | User | Group  | Computer | Domain  | GPO | OU
